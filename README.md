@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👨‍💻 About Me
+
+I am a graduate of Computer Science (practical profile), where I gained a solid foundation in web technologies. During my studies, however, I discovered my true passion—data analysis and machine learning—and since then I have been actively developing in the field of data science. I combine programming skills with an analytical approach to problem-solving, working on projects in Python and SQL while learning to build predictive models.
+
+I also have experience working in a call center, where I developed strong communication skills, learned to overcome customer objections, and became confident in persuasive conversations. This experience sparked my interest in digital marketing and marketing analytics. I am currently seeking my first job as a data analyst, where I can leverage both my technical and communication skills to create valuable reports, visualizations, and insights that support data-driven business decisions.
