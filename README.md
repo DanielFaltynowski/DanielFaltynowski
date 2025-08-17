@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-I am a graduate of Computer Science (practical profile), where I gained a solid foundation in web technologies. During my studies, however, I discovered my true passion—data analysis and machine learning—and since then I have been actively developing in the field of data science. I combine programming skills with an analytical approach to problem-solving, working on projects in Python and SQL while learning to build predictive models.
+I am a graduate of Practical Computer Science at the University of Gdańsk, and from October I will begin my Master’s studies in Data Science and Business Analytics at the University of Warsaw. I have experience in selling Canal+ services through cold calling, which helped me develop strong communication and analytical skills. I am currently seeking a position as a Data Analyst, where I can combine my technical knowledge and business experience in the field of financial and economic analysis.
 
-I also have experience working in a call center, where I developed strong communication skills, learned to overcome customer objections, and became confident in persuasive conversations. This experience sparked my interest in digital marketing and marketing analytics. I am currently seeking my first job as a data analyst, where I can leverage both my technical and communication skills to create valuable reports, visualizations, and insights that support data-driven business decisions.
+I am currently developing my own statistical library, where all functions are implemented from scratch without relying on external solutions. Third-party libraries are used only for validating the correctness of the results. The project includes methods for descriptive statistics, hypothesis testing, and mathematical functions based on carefully selected numerical methods tailored to the specific problem.
+
+### Three Most Important Projects
+
+- [Statistics 📊](https://github.com/DanielFaltynowski/statistics) -- This is a custom-built library I created, offering practical tools for data analysis and statistical exploration.
+
+- [Song Analysis System 🎵](https://github.com/DanielFaltynowski/song-analysis-system) -- A system for analyzing song lyrics using machine learning algorithms for thematic classification.
+
+- [Learn Data Science 🚀](https://github.com/DanielFaltynowski/learn-data-science) -- My personal experiments and notes during my journey of learning Data Science are preserved in this repository.
